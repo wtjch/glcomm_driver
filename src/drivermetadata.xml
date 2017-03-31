@@ -1,0 +1,9 @@
+<Driver Description="Describe the purpose of your CloudShell shell" MainClass="driver.GlcommDriver" Name="GlcommDriver" Version="1.0.0">
+    <Layout>
+        <Command Description="Write Message to Output" DisplayName="Output Message" Name="write_message_to_output">
+        </Command>
+        <Command Description="Run Onhook, Offhook, Onhook for a line" DisplayName="On Off Hook" Name="place_call">
+        </Command>
+
+    </Layout>
+</Driver>
